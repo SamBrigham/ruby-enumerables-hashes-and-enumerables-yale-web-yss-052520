@@ -14,5 +14,5 @@ passengers.each do |suite, name|
   end
 end
  
-winner
+p winner
 end
